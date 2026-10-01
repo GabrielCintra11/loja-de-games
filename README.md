@@ -49,7 +49,3 @@ flutter test
 
 - `evidencias/lista.png` — tela da lista com os registros
 - `evidencias/formulario.png` — tela do formulário preenchido
-
-## Base
-
-Projeto adaptado a partir de https://github.com/Ph-Xavier/bank
